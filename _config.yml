@@ -1,0 +1,28 @@
+name: www.ivaninteractive.com/test
+favicon: null
+layout_spectrum: 0.3132478687912226
+typography_spectrum: 0.03329722490161657
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3892255360260606
+  lightness: 0.6672400010284036
+  saturation: 0.3780803282279521
+  rhythmicContrast: 0.7318809402640909
+purpose: []
